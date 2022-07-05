@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gregormilliganuon&label=Profile%20views&color=0e75b6&style=flat" alt="gregormilliganuon" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gregormilliganuon" alt="gregormilliganuon" /></a> </p>
-
 - 🔭 I’m currently working on **Recapping on ML techniques and learning NLP Techniques**
 
 - 🌱 I’m currently learning **NLP and ML Methods - HuggingFace-Topic Modeling-Classification. ML Explainability!**
