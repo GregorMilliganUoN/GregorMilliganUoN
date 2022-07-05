@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Gregor Milligan</h1>
-<h3 align="center"> A PhD student at the [University of Nottingham](https://highlights.cdt.horizon.ac.uk/cohorts/cdt-2021), Working within the [N/Lab](/www.nlab.org.uk/people)</h3>
+
+## *A PhD student at the [University of Nottingham](https://highlights.cdt.horizon.ac.uk/cohorts/cdt-2021) working in the [N/Lab](https://www.nlab.org.uk/people/)*
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gregormilliganuon&label=Profile%20views&color=0e75b6&style=flat" alt="gregormilliganuon" /> </p>
 
-- 🔭 I’m currently working on **Recapping on ML techniques and learning NLP Techniques**
+- 🔭 I’m currently working on Recapping on ML techniques and learning NLP 
 
-- 🌱 I’m currently learning **NLP and ML Methods - HuggingFace-Topic Modeling-Classification. ML Explainability!**
+- 🌱 I’m currently learning NLP and ML Methods - HuggingFace-Topic Modeling-Classification. ML Explainability! 
 
-- 📓 My PhD project is based on [applying machine learning methods to understand well-being](*Upload proposal here*)
+- 🤔 I’m currently working as a ✨data scientist✨ with [Kooth](https://www.kooth.com/) -  a digital mental health platform!
+
+- 📓 My PhD project is based on [applying machine learning methods to understand well-being](https://github.com/GregorMilliganUoN/PhD_Proposal_Document)
 
 - 🤝 I’m looking for help with **the exploration of NLP Techniques**
 
-- 👨‍💻 All of my projects are available at [here](here)
+- 👨‍💻 All of my projects are available at [here](https://github.com/GregorMilliganUoN?tab=repositories)
 
 - 📝 I regularly write articles on [create a blog maybe?](create a blog maybe?)
 
@@ -19,7 +23,7 @@
 
 - 📄 Know about my experiences [maybe](maybe)
 
-- ⚡ Fun fact **I am decent guitar player and love to rock climb**
+- ⚡ Fun fact **I am decent guitar player and love to rock climb 🧗🏻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
