@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gregor Milligan</h1>
-<h3 align="center">A PhD student at the [University of Nottingham](https://highlights.cdt.horizon.ac.uk/cohorts/cdt-2021), Working within the [N/Lab](https://www.nlab.org.uk/people/)</h3>
+<h3 align="center"> A PhD student at the [University of Nottingham](https://highlights.cdt.horizon.ac.uk/cohorts/cdt-2021), Working within the [N/Lab](/www.nlab.org.uk/people)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gregormilliganuon&label=Profile%20views&color=0e75b6&style=flat" alt="gregormilliganuon" /> </p>
 
