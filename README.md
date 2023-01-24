@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gregormilliganuon&label=Profile%20views&color=0e75b6&style=flat" alt="gregormilliganuon" /> </p>
 
-- 🔭 I’m currently working on Recapping on ML techniques and learning NLP 
+- 🔭 I’m currently working on Recapping ML techniques and learning NLP 
 
 - 🌱 I’m currently learning NLP and ML Methods - HuggingFace-Topic Modeling-Classification. ML Explainability! 
 
