@@ -11,17 +11,13 @@
 
 - 🤔 I’m currently working as a ✨data scientist✨ with [Kooth](https://www.kooth.com/) -  a digital mental health platform!
 
-- 📓 My PhD project is based on [applying machine learning methods to understand well-being](https://github.com/GregorMilliganUoN/PhD_Proposal_Document)
+- 📓 My PhD project is based on [applying machine learning methods to understand loneliness](https://github.com/GregorMilliganUoN/PhD_Proposal_Document)
 
 - 🤝 I’m looking for help with **the exploration of NLP Techniques**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/GregorMilliganUoN?tab=repositories)
 
-- 📝 I regularly write articles on [create a blog maybe?](create a blog maybe?)
-
 - 📫 How to reach me **gregor.milligan@nottingham.ac.uk**
-
-- 📄 Know about my experiences [maybe](maybe)
 
 - ⚡ Fun fact **I am decent guitar player and love to rock climb 🧗🏻**
 
